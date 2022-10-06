@@ -1,1 +1,1 @@
-# Documentation for cse475 cpastone project
+# Documentation for cse475 capstone project
