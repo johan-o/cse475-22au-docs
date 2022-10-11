@@ -22,8 +22,11 @@ source ~/.zshrc
 ```
 
 ![Fedora 36 Initial Install](/cse475-22au-docs/assets/jekyll-install/fedora-init-install.png)
+
 ## Windows
 
+Install Windows Subsystem for Linux in Administrator PowerShell `wsl --install`. Reboot and follow 
+prompt.
 
 ## macOS
 
