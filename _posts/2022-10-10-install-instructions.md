@@ -28,6 +28,21 @@ source ~/.zshrc
 Install Windows Subsystem for Linux in Administrator PowerShell `wsl --install`. Reboot and follow 
 prompt.
 
+![WSL Install](/cse475-22au-docs/assets/jekyll-install/windows-wsl.png)
+
+![Ubuntu under WSL](/cse475-22au-docs/assets/jekyll-install/windows-wsl-install.png)
+Once installed, open the Ubuntu shell, create your user, and run 
+
+```
+sudo apt-get install ruby ruby-dev build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+change directory to root of the github repo for the website, and follow on all platforms using the Ubuntu shell.
+
 ## macOS
 
 ## All Platforms
@@ -52,5 +67,6 @@ bundle update && bundle install
 	[http://localhost:4000/cse475-22au-docs/](http://localhost:4000/cse475-22au-docs/)
 
 	![Fedora 36 Local](/cse475-22au-docs/assets/jekyll-install/fedora-local.png)
+	![Windows Local](/cse475-22au-docs/assets/jekyll-install/windows-local.png)
 
 	Errors will be printed to terminal
