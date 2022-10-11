@@ -21,6 +21,8 @@ over both time and location of air quality. The project should be able to create
 sensors that you can buy, aggregating data and serving it through both an API and a map.
 
 ![Purple Air AQI map](/cse475-22au-docs/assets/proposal/purple-air-map.png)
+
+[Air Gradient](https://www.airgradient.com/open-airgradient/instructions/diy/). Again, a static sensor
 # Potential Design Solutions
 
 # Needed Resources
