@@ -5,7 +5,7 @@ date:   2022-10-17 12:00:00 -0700
 ---
 ## Monday, 17 October 2022
 Wrote first draft of PRD, defining roles for everyone, our project's goals and definitions. 
-Recieved PMS5003 air quality sensor.
+Received PMS5003 air quality sensor.
 
 ## Tuesday, 18 October 2022
 Updated PRD.
