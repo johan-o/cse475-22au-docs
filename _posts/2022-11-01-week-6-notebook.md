@@ -14,3 +14,5 @@ date:   2022-10-31 13:00:00 -0700
 Working on designing PCB, google maps, and pin drawing function (?). Waiting for phone to arrive
 on Friday to start integrating sensor with phone app.
 
+## Thursday, 3 November 2022
+* Got Google Maps integration and location working with phone app
